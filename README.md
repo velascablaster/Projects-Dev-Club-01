@@ -1,2 +1,4 @@
 # Projects-Dev-Club
- Projects dev Club
+ Projetos do Curso Dev Club
+ Curso de Front End
+ HTML5 e CSS
